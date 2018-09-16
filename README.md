@@ -8,6 +8,8 @@ Inspired by the answer to this stack exchange question: [https://graphicdesign.s
 
 *Please note that the order of the rules is important, becuase some have priority over others, particularly the comma rule!*
 
+You can either type things into the GREP section of a paragraph style, or copy and paste the text box from the .indd file in this repository.
+
 Keyword Agument - `(\w*)(?=\=)`
 
 Parameter - `(def \w*\()\K(.|)(?=\))`
