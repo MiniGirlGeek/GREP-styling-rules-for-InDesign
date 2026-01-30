@@ -1,7 +1,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />All the work in this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 # GREP Styling Rules for InDesign
-Making InDesign to things it probably wasn't designed to do.
+Making InDesign do things it probably wasn't designed to do. These GREP styling rules allow you to have python syntax highlighting as a paragraph style. 
 
 I found this GREP cheat sheet very useful: [http://www.ericagamet.com/wp-content/uploads/2016/04/Erica-Gamets-GREP-Cheat-Sheet.pdf](http://www.ericagamet.com/wp-content/uploads/2016/04/Erica-Gamets-GREP-Cheat-Sheet.pdf)
 
